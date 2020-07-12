@@ -1,0 +1,27 @@
+svg.custom circle {
+  fill: #BAC7BE;
+  stroke: #BAC7BE;
+  stroke-width: 4px;
+  r: 12px;
+}
+
+svg.custom path.link {
+  fill: none;
+  stroke: #7DCD85;
+  stroke-width: 4px;
+}
+
+svg.custom {
+  font-size: 25px;
+  font-weight: 600;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+div.custom-container {
+  text-align: center;
+}
+
+svg {
+  transform: rotate(270deg);
+}
