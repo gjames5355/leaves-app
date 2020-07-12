@@ -38,10 +38,10 @@ export default class LandingPage extends React.Component {
             <img src='static/tree.png' alt='Family tree view'></img>
           </section>
         </div>
-        <p className='cred'>
+        {/* <p className='cred'>
           Do you want to demo before creating an account? Take a look at Joe
           Doe's family tree (user name: joe, password: Joe2joe!)
-        </p>
+        </p> */}
       </article>
     );
   }
