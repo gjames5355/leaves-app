@@ -1,9 +1,9 @@
 # Leaves
 
-- Live version: https://leaves-pi.vercel.app/ (access app with username: joe, password: Joe2joe!)
-- Required Origin API:
-  - Live: https://murmuring-reef-29838.herokuapp.com
-  - Repository: https://github.com/yulia-kh/origin-api
+Leaves API:
+
+- Live: https://leaves62786262.netlify.app/
+- Repository: https://github.com/gjames5355/leaves-app
 
 ## Description
 
